@@ -1,0 +1,7 @@
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\bin\Debug\Oops.exe.config
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\bin\Debug\Oops.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\bin\Debug\Oops.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\Oops.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\Oops.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\Oops.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\EazyLearn.Oops.csprojAssemblyReference.cache
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\EazyLearn.Oops.csproj.CoreCompileInputs.cache
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\Oops.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\OOPS\Oops\Oops\obj\Debug\Oops.pdb
