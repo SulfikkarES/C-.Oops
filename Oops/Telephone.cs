@@ -5,7 +5,7 @@
 // prohibited without the prior written consent of the copyright owner.
 //
 // Filename        : C#oops.cs
-// Purpose         : To practice c@ oops 
+// Purpose         : To practice c# oops 
 // Creation Date   : 30-09-2021
 // Author          : Sulfikkar E S
 //
